@@ -2,7 +2,7 @@
 * Swagger
 - http://localhost:8080/swagger-ui.html#/
 ## Frameworks and language used:
--     Java
+-     Java 
 -     Spring Boot
 -     SQL database
 -     Postman 
