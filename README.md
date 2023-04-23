@@ -23,6 +23,8 @@
   There are Five Controller classse in this application.
 
     * DoctorController Class.
+    ![DoctorEndpoints](https://user-images.githubusercontent.com/112196925/233860041-0b714c78-bdcb-4eec-ba06-bf8483f4a675.png)
+
     * PatientController Class.
     * SpecialityController Class.
     * SymptomsController class.
