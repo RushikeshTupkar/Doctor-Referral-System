@@ -29,8 +29,14 @@
     * ![PatientEndpoints](https://user-images.githubusercontent.com/112196925/233860088-9aac1fdd-7d3d-4582-a190-1d87c14d288c.png)
 
     * SpecialityController Class.
+    * ![SpecialityEndpoints](https://user-images.githubusercontent.com/112196925/233860130-cc60449b-95f6-448c-ae67-40ca108b386b.png)
+
     * SymptomsController class.
+    * ![SymptomsEndpoints](https://user-images.githubusercontent.com/112196925/233860206-46670ea7-c87f-4fe6-828f-d1d17a82d5f3.png)
+
     * StatusController class.
+    * ![StatusEndpoints](https://user-images.githubusercontent.com/112196925/233860211-8c4b2e8b-1b1c-44a6-a906-a4945597b7e8.png)
+
 
 
 
