@@ -26,6 +26,8 @@
     ![DoctorEndpoints](https://user-images.githubusercontent.com/112196925/233860041-0b714c78-bdcb-4eec-ba06-bf8483f4a675.png)
 
     * PatientController Class.
+    * ![PatientEndpoints](https://user-images.githubusercontent.com/112196925/233860088-9aac1fdd-7d3d-4582-a190-1d87c14d288c.png)
+
     * SpecialityController Class.
     * SymptomsController class.
     * StatusController class.
