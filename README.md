@@ -7,6 +7,18 @@
 -     SQL database
 -     Postman 
 -     Swagger
+
+## Steps to follow to use project
+
+    * Create two status Active, Inactive
+    * Create Specialities.
+    * Create Symptoms and associate with appropriate speciality.
+    * Create 👩‍⚕️Doctor and associate belonging speciality to doctor.
+    * Create 🤕Patient and assign symptoms to him.
+    * Now you are good to go 🚀
+
+
+
 ## Data Flow
 
 
