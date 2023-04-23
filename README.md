@@ -11,15 +11,15 @@
 ## Steps to follow to use project
 
    * Create two status Active, Inactive
-   * ![StatusEndpoints](https://user-images.githubusercontent.com/112196925/233860211-8c4b2e8b-1b1c-44a6-a906-a4945597b7e8.png)
+    ![StatusEndpoints](https://user-images.githubusercontent.com/112196925/233860211-8c4b2e8b-1b1c-44a6-a906-a4945597b7e8.png)
    * Create Specialities like Orthopedic, Gynecology, ENT, Dermatology.
-   * ![SpecialityEndpoints](https://user-images.githubusercontent.com/112196925/233860130-cc60449b-95f6-448c-ae67-40ca108b386b.png)
+    ![SpecialityEndpoints](https://user-images.githubusercontent.com/112196925/233860130-cc60449b-95f6-448c-ae67-40ca108b386b.png)
    * Create Symptoms like Skin burn, Skin injuries and associate with appropriate speciality like Dermatologist.
-   * ![SymptomsEndpoints](https://user-images.githubusercontent.com/112196925/233860206-46670ea7-c87f-4fe6-828f-d1d17a82d5f3.png)
+    ![SymptomsEndpoints](https://user-images.githubusercontent.com/112196925/233860206-46670ea7-c87f-4fe6-828f-d1d17a82d5f3.png)
    * Create 👩‍⚕️Doctor and associate belonging speciality to doctor.
-   * ![DoctorEndpoints](https://user-images.githubusercontent.com/112196925/233860041-0b714c78-bdcb-4eec-ba06-bf8483f4a675.png)
+    ![DoctorEndpoints](https://user-images.githubusercontent.com/112196925/233860041-0b714c78-bdcb-4eec-ba06-bf8483f4a675.png)
    * Create 🤕Patient and assign symptoms to him.
-   * ![PatientEndpoints](https://user-images.githubusercontent.com/112196925/233860088-9aac1fdd-7d3d-4582-a190-1d87c14d288c.png)
+    ![PatientEndpoints](https://user-images.githubusercontent.com/112196925/233860088-9aac1fdd-7d3d-4582-a190-1d87c14d288c.png)
    * Now you are good to go 🚀
 
 
