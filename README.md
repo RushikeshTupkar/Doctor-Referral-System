@@ -10,12 +10,12 @@
 
 ## Steps to follow to use project
 
-    * Create two status Active, Inactive
-    * Create Specialities like Orthopedic, Gynecology, ENT, Dermatology.
-    * Create Symptoms like Skin burn, Skin injuries and associate with appropriate speciality like Dermatologist.
-    * Create 👩‍⚕️Doctor and associate belonging speciality to doctor.
-    * Create 🤕Patient and assign symptoms to him.
-    * Now you are good to go 🚀
+   * Create two status Active, Inactive
+   * Create Specialities like Orthopedic, Gynecology, ENT, Dermatology.
+   * Create Symptoms like Skin burn, Skin injuries and associate with appropriate speciality like Dermatologist.
+   * Create 👩‍⚕️Doctor and associate belonging speciality to doctor.
+   * Create 🤕Patient and assign symptoms to him.
+   * Now you are good to go 🚀
 
 
 
