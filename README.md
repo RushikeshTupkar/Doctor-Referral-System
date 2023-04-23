@@ -44,7 +44,7 @@
 
 * **Service** :
 
-  There are Frou Service class in this application.
+  There are Four Service class in this application.
 
     * DoctorService Class.
     * PatientService Class.
