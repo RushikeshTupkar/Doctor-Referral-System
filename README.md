@@ -105,7 +105,7 @@
 
 The proposed project involves the development of a web application that enables patients to find suitable doctors based on their specific symptoms and location. To achieve this, the system will allow patients to register and input their symptoms, after which they will be provided with relevant information about doctors who specialize in treating their specific condition and are available in their city.
 
-To ensure that patients receive accurate and up-to-date information, the system will be designed with multiple validations to prevent data redundancy and maintain consistency in the data. Additionally, the system will be equipped with a feature that suggests doctors located in nearby cities if there are no suitable specialists available in the patient's city.
+To ensure that patients receive accurate and up-to-date information, the system is designed with multiple validations to prevent data redundancy and maintain consistency in the data. Additionally, the system is  equipped with a feature that suggests doctors located in nearby cities if there are no suitable specialists available in the patient's city.
 
 Overall, the application aims to provide patients with a user-friendly and efficient way to find the right doctors to treat their medical conditions, ultimately improving their healthcare outcomes.
 
